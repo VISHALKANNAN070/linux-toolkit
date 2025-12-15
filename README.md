@@ -41,7 +41,7 @@ sudo dnf install dialog fastfetch
 
 Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/linux-toolkit.git
+git clone https://github.com/VISHALKANNAN070/linux-toolkit.git
 cd linux-toolkit
 ```
 
